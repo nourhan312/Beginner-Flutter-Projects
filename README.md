@@ -1,16 +1,12 @@
-# massenger_ui
+# # Simple Messenger App UI
 
-A new Flutter project.
+![Screenshot 2024-12-27 025059](https://github.com/user-attachments/assets/f7e57a36-4f9d-43af-ac3f-702a8ffd4bfd)
 
-## Getting Started
+## Demo 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/user-attachments/assets/1d48c770-5c2c-41e1-9e83-93c110bd7f7a
+
