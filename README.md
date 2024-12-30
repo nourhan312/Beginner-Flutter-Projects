@@ -1,4 +1,4 @@
- This repository contains  projects i have done  by Flutter
+This repository contains  projects i have done  by Flutter
 
 ## Gallery
 
@@ -27,16 +27,16 @@
             </a>
         </td>
   </tr>
-    
+
  <tr>
         <td>
             <a href="https://github.com/nourhan312/Beginner-Flutter-Projects/tree/simple_mediation_app">
                 <img src="https://github.com/nourhan312/Beginner-Flutter-Projects/blob/main/assets/meditation%20app.png" alt="Image 1" width="1000" />
             </a>
-      
+
   </tr>
-    
-  
-  
- 
+
+
+
+
 </table>
