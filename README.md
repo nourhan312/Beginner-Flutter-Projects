@@ -8,4 +8,6 @@ A simple, functional, and modern calculator app built with Flutter. The app prov
 - **Calculation History**: Keeps track of all previous calculations and results.
 - **Clear History**: Users can clear individual entries or the entire history.
 
-  
+## App Preview
+
+![Calculator App](https://github.com/nourhan312/Beginner-Flutter-Projects/blob/main/assets/Calculator.png)
