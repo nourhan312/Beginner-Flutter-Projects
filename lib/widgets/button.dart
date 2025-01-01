@@ -21,7 +21,7 @@ class Button extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnimatedButton(
-      borderRadius: 10,
+      borderRadius: 15,
       height: height,
       width: width,
       backgroundColor: color,
