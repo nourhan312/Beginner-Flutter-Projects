@@ -1,16 +1,11 @@
-# calculator
+# Calculator App
 
-A new Flutter project.
+A simple, functional, and modern calculator app built with Flutter. The app provides basic arithmetic calculations, history tracking, and supports toggling for negative numbers.
 
-## Getting Started
+## Features
+- **Basic Calculations**: Supports addition, subtraction, multiplication, division, and percentage operations.
+- **Toggling Negative Numbers**: Allows users to toggle negative numbers with a `+/-` button.
+- **Calculation History**: Keeps track of all previous calculations and results.
+- **Clear History**: Users can clear individual entries or the entire history.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
