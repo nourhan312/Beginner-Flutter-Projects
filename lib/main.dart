@@ -1,3 +1,4 @@
+import 'package:calculator/screens/splash.dart';
 import 'package:flutter/material.dart';
 
 import 'screens/calculator_app.dart';
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: CalculatorApp(),
+      home: Splash(),
     );
   }
 }
