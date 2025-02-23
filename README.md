@@ -55,6 +55,13 @@ This repository contains  projects i have done  by Flutter
             </a>
         </td>
 
+
+<td>
+            <a href="https://github.com/nourhan312/Beginner-Flutter-Projects/tree/newsApp">
+                <img src="https://github.com/nourhan312/Beginner-Flutter-Projects/blob/main/assets/news%20app.png" alt="Image 1" width="1000" />
+            </a>
+        </td>
+
             
 
   </tr>
