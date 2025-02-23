@@ -50,7 +50,7 @@ This repository contains  projects i have done  by Flutter
 
  <tr>
             <td>
-            <a href="https://github.com/nourhan312/Beginner-Flutter-Projects.git">
+            <a href="https://github.com/nourhan312/Beginner-Flutter-Projects/tree/weatherAppWithCubit">
                 <img src="https://github.com/nourhan312/Beginner-Flutter-Projects/blob/main/assets/weather%20app.png" alt="Image 1" width="1000" />
             </a>
         </td>
