@@ -101,7 +101,6 @@ class _QuizScreenState extends State<QuizScreen> {
                   onPressed: () {
                     setState(() {
                       selectedAnswer = answer.answerText;
-                      answer.correctAnswer ? score++ : score;
                     });
                   },
                   style: ElevatedButton.styleFrom(
@@ -128,6 +127,12 @@ class _QuizScreenState extends State<QuizScreen> {
               child: ElevatedButton(
                 onPressed: () {
                   setState(() {
+                    if (data[currentIndex].answers.any(
+                      (ans) =>
+                          ans.answerText == selectedAnswer && ans.correctAnswer,
+                    )) {
+                      score++;
+                    }
                     if (currentIndex == data.length - 1) {
                       showDialog(
                         context: context,
